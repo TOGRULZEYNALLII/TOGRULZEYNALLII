@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Togrul</h1>
 <h3 align="center">Frontend developer</h3>
+<p>I excel in C++ (STL, OOP, algorithms & data structures) and have hands‑on experience with Java backends via Spring Boot. On the frontend, I build responsive UIs with HTML5, CSS3, JavaScript (ES6+), Tailwind CSS and Bootstrap, and leverage React.js (hooks, routing) plus Chart.js and Three.js for data and 3D visualizations. I apply functional programming principles (pure functions, immutability, higher‑order functions) to write predictable JavaScript, and develop RESTful APIs with Node.js/Express. My workflow relies on Git/GitHub, Vite/npm, ESLint, VS Code and Postman for efficient, high‑quality collaboration.</p>
 <div> <a href="https://www.linkedin.com/in/togrul-zeynalli-1949ba249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/TOGRULZEYNALLII" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/theynalli__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
